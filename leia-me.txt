@@ -1,0 +1,12 @@
+. Administrador principal, dois alunos e dois professores já foram criados.
+
+. Login para cada um deles:
+
+	ADM: email: admin@gmail.com | senha: admin123
+	Aluno 1: email: jose123@gmail.com | senha: jose1234
+	Aluno 2: email: pedro@gmail.comm | senha: 12345
+	Professor 1: email: daniel@gmail.com | senha: daniel123
+	Professor 2: email: naotojp@gmail.com | senha: naoto123
+
+
+. Foram criado os cursos de Inglês e Japonês com duas aulas agendadas em cada.
